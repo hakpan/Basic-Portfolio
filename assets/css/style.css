@@ -25,6 +25,22 @@ p {
 	padding-left: 20px;
 	padding-right: 20px;
 	color: grey;
+	line-height: 150%;
+}
+
+img {
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+#line {
+	border-style: solid;
+    border-width: .5px;
+    border-color: grey;
+    margin-top: -10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .Header {
